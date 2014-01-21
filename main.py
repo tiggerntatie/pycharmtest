@@ -19,3 +19,5 @@ print "And now I have a gitted file with a change!"
 print "And another change"
 
 print "And now a change that was added at github!"
+
+# yes, I can still edit code from github, directly.
